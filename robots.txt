@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunkyolim-creator.github.io/trend-scan-site/sitemap.xml
